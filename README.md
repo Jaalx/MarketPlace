@@ -125,6 +125,9 @@ npm run dev
 
 ---
 
+$$$ Artifact Claude
+- https://claude.ai/artifact/XVXXvqJgBTQpXWPEuMpxEB
+
 ## 🗂️ Historias de Usuario principales
 
 ### Comprador
